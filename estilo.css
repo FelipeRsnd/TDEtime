@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
@@ -12,14 +12,16 @@ section {
     background: rgb(179, 173, 173);
     border-radius: 18px;
     padding: 15px;
-    width: 500px;
+    width: 600px;
+    height: 300px;
     margin: auto;
-    box-shadow: 3px 3px 10px rgb(39, 41, 41);
+    box-shadow: 3px 3px 10px rgb(191, 194, 0);
 }
 
 
 footer {
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-style: italic; 
+    padding: 10%;
 }
