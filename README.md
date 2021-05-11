@@ -1,2 +1,1 @@
 # TDEtime
-Grupo do Trabalho
