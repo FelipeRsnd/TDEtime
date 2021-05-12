@@ -23,3 +23,11 @@ footer {
     text-align: center;
     font-style: italic; 
 }
+
+.PainelTabuada{
+    width: 40%;
+    height: 180px;
+    padding: 5px;
+    text-align: justify;
+    
+}
