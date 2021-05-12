@@ -1,52 +1,31 @@
 body {
-    background: rgb(129, 166, 187);
+    background: rgb(30, 140, 214);
     font: normal 15pt Arial;
-    margin: 0px 0px 0px 0px;
 }
 
 header {
-    background-color: rgb(243, 242, 242);
+    color: white;
     text-align: center;
-    font-size: 30px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    color:  rgb(5, 49, 77);
 }
 
 section {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    height: 450px;
-}
-
-article{
-    background: rgb(255, 255, 255);
+    background: white;
     border-radius: 18px;
     padding: 15px;
-    width: 600px;
-    height: 300px;
+    width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 10px  rgb(23, 116, 182);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color:rgb(5, 49, 77) ;
+    box-shadow: 3px 3px 10px rgb(39, 41, 41);
 }
 
 
 footer {
-    color: rgb(255, 255, 255);
-    background-color: rgb(5, 49, 77);
-    text-align: center; 
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-     
+    color: white;
+    text-align: center;
+    font-style: italic; 
 }
 
+.PainelTabuada{
+    width: 40%;
+    height: 180px;
+    text-align: center;
+}
